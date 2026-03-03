@@ -1,0 +1,41 @@
+HTML
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PH Gaming News Portal</title>
+    <style>
+        body { background: #f0f2f5; color: #1c1e21; font-family: -apple-system, sans-serif; margin: 0; padding: 0; }
+        .header { background: #1a73e8; color: white; padding: 15px; font-weight: bold; font-size: 18px; }
+        .content { max-width: 500px; margin: 20px auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .promo-card { background: #f8fff9; border: 2px dashed #34a853; border-radius: 10px; padding: 20px; text-align: center; margin: 20px 0; }
+        .title { color: #d93025; font-size: 24px; font-weight: 800; margin-bottom: 10px; }
+        .btn { display: block; background: #34a853; color: white; text-align: center; padding: 15px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 18px; }
+        .footer { font-size: 12px; color: #70757a; text-align: center; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <div class="header">🎮 PH Gaming Updates 2026</div>
+    <div class="content">
+        <h2 style="margin-top:0;">Special Member Rewards</h2>
+        <p>Malaking balita para sa lahat ng players! Ang bagong rewards program ay live na sa Pilipinas.</p>
+        
+        <div class="promo-card">
+            <div class="title">800% BONUS + ₱4,898 ALLOWANCE</div>
+            <p><strong>Sulit na sulit!</strong> Makuha ang iyong rewards sa unang 4 na deposito.</p>
+            <a href="https://68802win.pro/pwa/index3.html?ch=Bfmyfa" class="btn">KUNIN ANG BONUS NGAYON</a>
+        </div>
+        
+        <p style="text-align:center; color:#5f6368; font-size:14px;">Redirecting to secure server in 3 seconds...</p>
+    </div>
+    <div class="footer">© 2026 PH Gaming News. 18+ Only. Play Responsibly.</div>
+
+    <script>
+        // 3秒自动跳转
+        setTimeout(function(){
+            window.location.href = "https://68802win.pro/pwa/index3.html?ch=Bfmyfa";
+        }, 3000);
+    </script>
+</body>
+</html>
